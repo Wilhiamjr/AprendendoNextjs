@@ -1,4 +1,4 @@
-# AprendendoNextjs
+# Aprendendo Nextjs
 Código introdutório seguindo na documentação do NextJS
 
 Instruções para executar<br>
